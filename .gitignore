@@ -1,4 +1,7 @@
 fp-info-cache
 MCU Datalogger-backups/*
 MCUDataLoggerGerber/*
+_autosave-*
+*auto_saved*
+*~
 
