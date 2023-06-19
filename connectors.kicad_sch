@@ -1,6 +1,6 @@
 (kicad_sch (version 20230121) (generator eeschema)
 
-  (uuid 5bf77578-4a85-4c85-9655-9ce8547bf0ac)
+  (uuid a23913ae-5522-4da1-bece-90e2ad663f09)
 
   (paper "A4")
 
@@ -352,7 +352,7 @@
   (symbol (lib_id "Connector:Conn_01x09_Pin") (at 124.46 90.17 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 16959c59-97a4-46fd-9226-533a664d7c9e)
-    (property "Reference" "J?" (at 127 73.66 0)
+    (property "Reference" "J2" (at 127 73.66 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x09_Pin" (at 127 76.2 0)
@@ -379,7 +379,7 @@
     (instances
       (project "MCU Datalogger"
         (path "/a2e2aee7-f3a1-41aa-a08b-33521bd80092/7aad608c-7ebf-4703-a978-c452454cad03"
-          (reference "J?") (unit 1)
+          (reference "J2") (unit 1)
         )
       )
     )
@@ -388,7 +388,7 @@
   (symbol (lib_id "Connector:Conn_01x04_Pin") (at 152.4 57.15 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 178b13ee-f363-4550-b873-f0c6e84f0cdb)
-    (property "Reference" "J?" (at 154.94 48.26 0)
+    (property "Reference" "J3" (at 154.94 48.26 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x04_Pin" (at 154.94 50.8 0)
@@ -410,7 +410,7 @@
     (instances
       (project "MCU Datalogger"
         (path "/a2e2aee7-f3a1-41aa-a08b-33521bd80092/7aad608c-7ebf-4703-a978-c452454cad03"
-          (reference "J?") (unit 1)
+          (reference "J3") (unit 1)
         )
       )
     )
@@ -419,7 +419,7 @@
   (symbol (lib_id "Connector:Conn_01x04_Pin") (at 123.19 57.15 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 51b4667e-a22e-43b1-a4d6-19d713ac17fa)
-    (property "Reference" "J?" (at 125.73 48.26 0)
+    (property "Reference" "J1" (at 125.73 48.26 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x04_Pin" (at 125.73 50.8 0)
@@ -441,7 +441,7 @@
     (instances
       (project "MCU Datalogger"
         (path "/a2e2aee7-f3a1-41aa-a08b-33521bd80092/7aad608c-7ebf-4703-a978-c452454cad03"
-          (reference "J?") (unit 1)
+          (reference "J1") (unit 1)
         )
       )
     )
@@ -450,7 +450,7 @@
   (symbol (lib_id "Connector_Generic:Conn_02x03_Odd_Even") (at 162.56 90.17 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 86145430-9ddc-4538-82a7-b205d06591c8)
-    (property "Reference" "J?" (at 163.83 81.28 0)
+    (property "Reference" "J4" (at 163.83 81.28 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_02x03_Odd_Even" (at 163.83 83.82 0)
@@ -474,7 +474,7 @@
     (instances
       (project "MCU Datalogger"
         (path "/a2e2aee7-f3a1-41aa-a08b-33521bd80092/7aad608c-7ebf-4703-a978-c452454cad03"
-          (reference "J?") (unit 1)
+          (reference "J4") (unit 1)
         )
       )
     )
